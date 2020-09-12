@@ -1,5 +1,15 @@
 # Automating MS Teams
 
+https://img.shields.io/github/license/Chitturiarunkrishna/msteams
+
+https://img.shields.io/github/stars/Chitturiarunkrishna/msteams
+
+https://img.shields.io/github/forks/Chitturiarunkrishna/msteams
+
+https://img.shields.io/github/issues/Chitturiarunkrishna/msteams
+
+
+
 Most of us are aware that Teams is a video conferencing app which allows us to attend/conduct meetings. And because of this pandemic situation, the usage of these video conferencing apps also increased and most of the classes and lectures and conferences are conducted in Teams now a days.
 
 # New Features!
