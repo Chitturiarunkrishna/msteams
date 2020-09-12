@@ -19,7 +19,9 @@ pip install python-intervals
 ```
 
 # Execution:
+```sh
 python teams.py
+```
 
 # Working (Behind the scenes) :
 > An infinite loop keeps checking the current time of the system using datetime.now() funtion.
