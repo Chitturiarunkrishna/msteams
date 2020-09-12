@@ -1,2 +1,0 @@
-pip install pyautogui
-pip install python-intervals
