@@ -1,6 +1,6 @@
 # Automating MS Teams
 
-https://img.shields.io/github/license/Chitturiarunkrishna/msteams
+(https://img.shields.io/github/license/Chitturiarunkrishna/msteams)
 
 https://img.shields.io/github/stars/Chitturiarunkrishna/msteams
 
