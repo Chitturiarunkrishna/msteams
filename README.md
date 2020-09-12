@@ -1,12 +1,20 @@
 # Automating MS Teams
 
-[![Generic badge](https://img.shields.io/github/license/Chitturiarunkrishna/msteams)](https://shields.io/)
+[![Generic badge](https://img.shields.io/github/license/Chitturiarunkrishna/msteams)](https://github.com/Chitturiarunkrishna/msteams)
 
-https://img.shields.io/github/stars/Chitturiarunkrishna/msteams
+[![Generic badge](https://img.shields.io/github/stars/Chitturiarunkrishna/msteams)](https://github.com/Chitturiarunkrishna/msteams)
 
-https://img.shields.io/github/forks/Chitturiarunkrishna/msteams
+[![Generic badge](https://img.shields.io/github/forks/Chitturiarunkrishna/msteams)](https://github.com/Chitturiarunkrishna/msteams)
 
-https://img.shields.io/github/issues/Chitturiarunkrishna/msteams
+[![Generic badge](https://img.shields.io/github/issues/Chitturiarunkrishna/msteams)](https://github.com/Chitturiarunkrishna/msteams)
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Chitturiarunkrishna/msteams)
+
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/Chitturiarunkrishna/)
+
+
 
 
 
